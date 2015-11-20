@@ -18,5 +18,8 @@
   "homepage": "https://github.com/do7be/my-solution-redux-tutorial#readme",
   "devDependencies": {
     "babel": "^6.1.18"
+  },
+  "dependencies": {
+    "redux": "^3.0.4"
   }
 }
