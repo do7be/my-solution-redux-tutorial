@@ -1,0 +1,22 @@
+{
+  "name": "my-solution-redux-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01_simple_action.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/do7be/my-solution-redux-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/do7be/my-solution-redux-tutorial/issues"
+  },
+  "homepage": "https://github.com/do7be/my-solution-redux-tutorial#readme",
+  "devDependencies": {
+    "babel": "^6.1.18"
+  }
+}
